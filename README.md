@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @KhairiYusoff
 - 👀 I’m interested in ...HTML, CSS, JS, React, TS, Solidity
 - 🌱 I’m currently learning ...HTML, CSS, JS, Solidity
-- 💞️ I’m looking to collaborate on ...Blockchain and Web 3
+- 💞️ I’m looking to collaborate on ...Blockchain and Web Development
 - 📫 How to reach me ...@KhairiYusoff
 
 <!---
