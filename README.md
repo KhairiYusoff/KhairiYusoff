@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @KhairiYusoff
-- 👀 I’m interested in ...HTML, CSS, JS, React.js, Next.js, TS
-- 🌱 I’m currently learning ...TypeScript
+- 👀 I’m interested in ...HTML, CSS, JS, React.js, Next.js, Typescript
 - 💞️ I’m looking to collaborate on ...Fullstack and Web Development
 - 📫 How to reach me ...@KhairiYusoff
 
