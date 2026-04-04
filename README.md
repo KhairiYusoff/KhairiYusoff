@@ -2,6 +2,7 @@
 - 👀 I’m interested in ...HTML, CSS, JS, React.js, Next.js, Typescript
 - 💞️ I’m looking to collaborate on ...Fullstack and Web Development
 - 📫 How to reach me ...@KhairiYusoff
+- Frontend Engineer | React · TypeScript · Node.js | Fintech | AI-assisted dev
 
 <!---
 KhairiYusoff/KhairiYusoff is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
