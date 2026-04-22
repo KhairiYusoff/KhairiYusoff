@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KhairiYusoff
-- 👀 I’m interested in ...HTML, CSS, JS, React.js, Next.js, Typescript
-- 💞️ I’m looking to collaborate on ...Fullstack and Web Development
+- 👀 I’m interested in ...Fintech AI, Agentic RAG, React.js, Next.js, Typescript
+- 💞️ I’m looking to collaborate on ...Fullstack AI
 - 📫 How to reach me ...@KhairiYusoff
 - Frontend Engineer | React · TypeScript · Node.js | Fintech | AI-assisted dev
 
